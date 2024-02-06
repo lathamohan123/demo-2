@@ -4,3 +4,11 @@ hello world
 third version of this file
 after pulling changes 
 changes made 
+changes will make 
+git add .
+git commit -m " tag"
+git config user.name
+git config user.email
+git checkout -- .
+git reset HEAD
+git switch -c branchname
